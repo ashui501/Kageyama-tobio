@@ -76,7 +76,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 HELP_MSG = "ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ʜᴇʟᴘ ᴍᴇɴᴜ ~"
-START_MSG = "* I ᴀᴍ ɢʜᴏsᴛ ᴏғ ᴛʜᴇ ᴜᴄʜɪʜᴀ, ᴍᴀᴅᴀʀᴀ ᴜsᴄʜɪʜᴀ;)"
+START_MSG = "* I ᴀᴍ best setter kageyama tobio;)"
 
 
 PM_START_TEX = """
@@ -84,7 +84,7 @@ PM_START_TEX = """
 """
 
 PM_START_TEXT = """
-**──────「ᴘᴏᴡᴇʀ」──────**,[ㅤ](https://graph.org/file/2904688233933fd7e64fc.mp4)
+**──────「ᴘᴏᴡᴇʀ」──────**,[ㅤ](https://te.legra.ph/file/5529d98cf856d966aa292.jpg)
 ×**▸ ɪ ᴀᴍ ᴀ ᴀɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.
 ▸ ɪ ʜᴀᴠᴇ sᴘᴇᴄɪᴀʟ ғᴇᴀᴛᴜʀᴇs ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘs ᴇᴀsɪʟʏ !
 ▸ ᴄʟɪᴄᴋ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴏʀ sᴇɴᴅ /help ᴛᴏ ᴄʜᴇᴄᴋ ᴀʟʟ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs.**
@@ -105,11 +105,11 @@ buttons = [
     [
         InlineKeyboardButton(text="📕 𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎", callback_data="help_back"),
         InlineKeyboardButton(
-            text="🚑 𝙎𝙐𝙋𝙋𝙊𝙍𝙏", url=f"https://t.me/Anime_Krew"
+            text="🚑 𝙎𝙐𝙋𝙋𝙊𝙍𝙏", url=f"https://te.legra.ph/file/17ca006d8584607c85acb.jpg"
         ),
     ],
     [
-        InlineKeyboardButton(text="🎵 𝙈𝙐𝙎𝙄𝘾", url=f"https://t.me/Nobara_Music_Bot?start=new"),
+        InlineKeyboardButton(text="🎵 𝙈𝙐𝙎𝙄𝘾", url=f"https://t.me/KakashiXHatake?start=new"),
         InlineKeyboardButton(text="✍️ 𝘼𝘽𝙊𝙐𝙏", callback_data="about_"),
     ],
     [
@@ -122,7 +122,7 @@ buttons = [
 
 
 HELP_STRINGS = """
-✨ 𝙈𝙖𝙙𝙖𝙧𝙖✨[ㅤ](https://graph.org/file/9b8b09ce1d5d48f8004f3.jpg)
+✨ kageyama✨[ㅤ](https://te.legra.ph/file/e85c559bcf108d4e80cb7.jpg)
 ━━━━━━━━━━━━━━━━━      
 ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟʟᴏᴡ ᴛᴏ
 ɢᴇᴛ ᴜꜱᴀɢᴇ ᴏꜰ ꜱᴘᴇᴄɪꜰɪᴄꜱ ᴄᴏᴍᴍᴀɴᴅ
@@ -262,11 +262,11 @@ def start(update: Update, context: CallbackContext):
                     [
                         InlineKeyboardButton(
                             text="🚑 𝙎𝙐𝙋𝙋𝙊𝙍𝙏",
-                            url=f"https://t.me/Anime_Krew",
+                            url=f"https://t.me/LOVELYXSUPPORT",
                         ),
                         InlineKeyboardButton(
                             text="📗 𝙐𝙋𝘿𝘼𝙏𝙀𝙎",
-                            url=f"https://t.me/JujutsuHighNetwork",
+                            url=f"https://t.me/LOVELYXSUPPORT",
                         ),
                     ],
                     [
@@ -711,13 +711,13 @@ def main():
         try:
             dispatcher.bot.sendAnimation(
                 f"@{SUPPORT_CHAT}",
-                animation="https://graph.org/file/2904688233933fd7e64fc.mp4",
+                animation="https://te.legra.ph/file/145c56dc366185d60b4ac.jpg",
                 caption=f"""
 ✨ {dispatcher.bot.first_name} ɪs ᴀʟɪᴠᴇ .....
     ➖➖➖➖➖➖➖➖➖➖➖➖
           ➖➖➖➖➖➖➖
-👑 **𝐌𝐘 𝐎𝐖𝐍𝐄𝐑 :** [𝙽 𝙰 𝙽 𝙰 𝙼 𝙸](https://t.me/The_NanamiiKento)
-🧑‍💻 **𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 :** [Ɲᴀɴᴏ | ❄](https://t.me/SexyNano)
+👑 **𝐌𝐘 𝐎𝐖𝐍𝐄𝐑 :** [L E V I](https://t.me/LEVI_ACKERMANU)
+🧑‍💻 **𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 :** [L E V I | ❄](https://t.me/LEVI_ACKERMANU)
 ⍟ **𝐋𝐈𝐁𝐑𝐀𝐑𝐘 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 :** `{lver}`
 ⍟ **𝐓𝐄𝐋𝐄𝐓𝐇𝐎𝐍 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 :** `{tver}`
 ⍟ **𝐏𝐘𝐑𝐎𝐆𝐑𝐀𝐌 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 :** `{pver}`
