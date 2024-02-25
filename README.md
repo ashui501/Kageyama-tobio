@@ -1,6 +1,6 @@
-# Madara Uchiha Group Management Bot
+# kageyama tobio Group Management Bot
 
-![Madara Uchiha](https://graph.org/file/875f7cb814130c1fd7ca1.jpg) 
+![kageyama tobio](https://te.legra.ph/file/5529d98cf856d966aa292.jpg) 
 
 Welcome to the Madara Uchiha Group Management Bot repository! This bot is designed to provide a wide range of features and functionalities for managing groups on Telegram, all with an anime theme based on the character Madara Uchiha.
 
@@ -24,7 +24,7 @@ Welcome to the Madara Uchiha Group Management Bot repository! This bot is design
 
 Contributions to the Madara Uchiha Group Management Bot are welcome! If you encounter any issues, have suggestions for improvements, or would like to add new features, please open an issue or submit a pull request on the [GitHub repository](https://github.com/PyroUserBot/MadaraUchiha).
 
-When contributing, please ensure you follow the [code of conduct](https://github.com/PyroUserBot/MadaraUchiha/blob/main/CODE_OF_CONDUCT.md) and adhere to the project's coding standards.
+When contributing, please ensure you follow the [code of conduct](https://github.com/ashui501/kageyamatpbio/blob/main/CODE_OF_CONDUCT.md) and adhere to the project's coding standards.
 
 ## License
 
